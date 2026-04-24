@@ -1,4 +1,4 @@
-# I have forgetton to push it to my github, but never late
+# I have forgetten to push it to my github, but never late
 from functools import partial
 from itertools import combinations
 
