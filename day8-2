@@ -1,3 +1,5 @@
+// Here I could not find any idea to solve the problem, then I did binary search, I changed every number manually, then find the answer:D, 
+                           // but I solved it anyways.
 #include "bits/stdc++.h"
 
 using namespace std;
